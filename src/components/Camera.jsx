@@ -8,7 +8,7 @@ Source: https://sketchfab.com/3d-models/3d-camera-nikon-d3100-high-poly-ca72ad4a
 Title: 3D CAMERA - Nikon D3100 High Poly
 */
 
-import React, { useRef } from "react";
+import React from "react";
 import { useGLTF } from "@react-three/drei";
 
 export default function Model(props) {

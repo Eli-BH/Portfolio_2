@@ -8,7 +8,7 @@ Source: https://sketchfab.com/3d-models/samsung-s21-ultra-83c040b282934cf38b3f58
 Title: Samsung S21 Ultra
 */
 
-import React, { useRef } from "react";
+import React from "react";
 import { useGLTF } from "@react-three/drei";
 
 export default function Model(props) {
